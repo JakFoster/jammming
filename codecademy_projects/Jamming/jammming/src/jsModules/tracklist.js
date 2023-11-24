@@ -1,7 +1,17 @@
 import React from 'react';
+import { useState } from 'react';
+import Track from './Track';
 
-function tracklist(){
 
+function Tracklist(){
+
+    const [results, setResults] = useState('Search for new music!');
+
+    return (
+        <div>
+            
+        </div>
+    )
 }
 
-export default tracklist;
+export default Tracklist;

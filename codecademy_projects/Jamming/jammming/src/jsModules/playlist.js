@@ -1,7 +1,7 @@
 import React from 'react';
 
-function playlist(){
+function Playlist(){
 
 }
 
-export default playlist;
+export default Playlist;
